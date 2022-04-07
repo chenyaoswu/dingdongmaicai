@@ -1,7 +1,9 @@
 # 叮咚买菜抢菜助手
 
 ### 1.进群领取叮咚买菜抢菜助手apk,在自己的android手机上、云手机上都可以跑
-![Image text](https://github.com/chenyaoswu/dingdongmaicai/blob/main/wechat.png)
+
+<img src="https://github.com/chenyaoswu/dingdongmaicai/blob/main/wechat.png" width="100px">
+
 
 ### 2.apk基于https://github.com/Skykai521/DingDongHelper 改造而来，有能力的可以直接使用原仓库的apk
 
