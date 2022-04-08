@@ -6,7 +6,6 @@
 
 <img src="https://github.com/chenyaoswu/dingdongmaicai/blob/main/1.png" width="200px" style="margin: 0 auto">
 
-
 ### 2.apk基于https://github.com/Skykai521/DingDongHelper 改造而来，有能力的可以直接使用原仓库的apk
 
 
